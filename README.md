@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently learning Java backend
+I’m currently learning Java backend.
 I’m looking to collaborate on mini project
 
 <!--
